@@ -22,5 +22,5 @@ jupyter lab
 
 ## Notes
 
-- `black first_model.ipynb`
+- `black first_model.ipynb` or `black *.ipynb`
 - `conda deactivate` + `conda env remove --name spaceship-titanic-dev`
