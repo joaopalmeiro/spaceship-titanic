@@ -10,3 +10,7 @@ dependencies:
   - scikit-learn=1.1.2
   # https://github.com/scikit-learn-contrib/category_encoders
   - category_encoders=2.5.0
+  - pip:
+      # https://github.com/cmudig/AutoProfiler/blob/da5148f99c0cbba3536c47354532c2fe7441688f/requirements.txt
+      # https://pypi.org/project/digautoprofiler/0.2.2/
+      - digautoprofiler==0.2.2
